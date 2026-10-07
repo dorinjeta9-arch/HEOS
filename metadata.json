@@ -1,0 +1,6 @@
+{
+  "name": "HEOS - Socio Tecnológico Integral y Departamento IT para PYMES",
+  "description": "Propuesta corporativa, arquitectura web B2B, copywriting y chatbot especializado para HEOS, departamento IT externo con CPD propio para PYMES.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
