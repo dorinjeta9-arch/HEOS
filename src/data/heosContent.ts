@@ -1,9 +1,12 @@
 import { AdvantageItem, Language, SectorItem, ServiceItem, SitemapNode } from '../types';
+import heroDatacenter from '../assets/images/hero_heos_datacenter_1791355129881.jpg';
+import servers from '../assets/images/datacenter_facility_servers_1791355142416.jpg';
+import technician from '../assets/images/it_support_technician_local_1791355152098.jpg';
 
 export const HEOS_IMAGES = {
-  heroDatacenter: '/src/assets/images/hero_heos_datacenter_1791355129881.jpg',
-  servers: '/src/assets/images/datacenter_facility_servers_1791355142416.jpg',
-  technician: '/src/assets/images/it_support_technician_local_1791355152098.jpg',
+  heroDatacenter,
+  servers,
+  technician,
 };
 
 export const HEOS_CONTACT_INFO = {
